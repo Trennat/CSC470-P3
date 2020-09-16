@@ -1,0 +1,9 @@
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\obj\Debug\CSC470-P3EmployeeInfo.csprojAssemblyReference.cache
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\obj\Debug\CSC470_P3EmployeeInfo.Properties.Resources.resources
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\obj\Debug\CSC470-P3EmployeeInfo.csproj.GenerateResource.cache
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\obj\Debug\CSC470-P3EmployeeInfo.csproj.CoreCompileInputs.cache
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\bin\Debug\CSC470-P3EmployeeInfo.exe.config
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\bin\Debug\CSC470-P3EmployeeInfo.exe
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\bin\Debug\CSC470-P3EmployeeInfo.pdb
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\obj\Debug\CSC470-P3EmployeeInfo.exe
+C:\Users\tanma\source\repos\CSC470-P3\CSC470-P3EmployeeInfo\CSC470-P3EmployeeInfo\obj\Debug\CSC470-P3EmployeeInfo.pdb
