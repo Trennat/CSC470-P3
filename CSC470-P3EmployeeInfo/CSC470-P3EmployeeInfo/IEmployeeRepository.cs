@@ -8,8 +8,9 @@ namespace CSC470_P3EmployeeInfo
 {
     public interface IEmployeeRepository
     {
-        int save(Employee Emp);
+        int Save(Employee Emp);
         List<Employee> GetAll();
         decimal GetSalary(int ID);
+        Employee GetByID(int ID);
     }
 }
